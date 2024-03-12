@@ -6,12 +6,11 @@ DEBUG = False
 
 DATABASES = {
     'default': {
-
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'clijfhwk',
-        'USER': 'clijfhwk',
-        'PASSWORD': 'exv_NeTaLsQd4JfxNSOrlp8fjUGlcOlU',
-        'HOST': 'floppy.db.elephantsql.com'
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'karakalpakmusic$default',
+        'USER': 'karakalpakmusic',
+        'PASSWORD': 'DaMiR2810',
+        'HOST': 'karakalpakmusic.mysql.pythonanywhere-services.com'
     }
 }
 
